@@ -1,0 +1,15 @@
+body {
+  margin: 20px !important;
+  font-family:  "Open Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  padding: 0;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  color: rgba(0, 0, 0, 0.8);
+  position: relative;
+  min-height: 100vh;
+  overflow-y: auto;
+}
